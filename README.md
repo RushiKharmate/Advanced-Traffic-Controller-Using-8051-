@@ -1,4 +1,4 @@
-# Traffic Light Control System using 8051 Microcontroller and IR Sensor
+# Advanced Traffic Light Control System using 8051 Microcontroller and IR Sensor
 
 ## Overview
 
