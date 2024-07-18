@@ -40,3 +40,8 @@ This project implements a traffic light control system using an 8051 microcontro
    - Adjusts traffic light signals based on vehicle detection:
      - **Normal Traffic:** Green lights on active roads, with timed transitions to Yellow and Red.
      - **Heavy Traffic:** Longer delays on Green lights, shorter on Yellow.
+       
+## Contact
+
+   - Author: [Rushi Kharmate]
+   - Email: [rushirajekharmate@gmail.com]
